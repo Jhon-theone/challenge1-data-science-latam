@@ -60,4 +60,5 @@ Tras concluir el analisis se hallo que la **Tienda 4** presenta los **ingresos m
 
 Proyecto presentado y creado por **Oracle Next Education** del programa **ONE** y **Alura LATAM** \
 Jhon Rodríguez Cortes \
-[Correo Electronico](jhonalexcortes31@gmail.com)
+[Correo Electronico](jhonalexcortes31@gmail.com) \
+[Repositorio en github](https://jhon-theone.github.io/challenge1-data-science-latam/)
