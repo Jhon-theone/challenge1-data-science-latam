@@ -10,6 +10,10 @@ empresas con el fin de analizar sus ingresos y tomar desiciones basado en ello.
 El análisis se realizó eutilizando la plataforma de Google Colab, utilizando técnicas básicas de análisis de datos y 
 visualización de graficos para apoyar la toma de decisiones del cliente.
 
+## Acceso al proyecto
+
+[![Abrir en colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jhon-theone/challenge1-data-science-latam/blob/main/AluraStoreLatam.ipynb)
+
 ### Objetivo del Analisis
 
 El **señor Juan** nos solicito resalizar un analisis de los ingresos y desempeño de sus de 4 de sus tiendas.
